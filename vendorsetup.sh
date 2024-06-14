@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo twrp_eros-p1-user
-add_lunch_combo twrp_eros-p1-userdebug
-add_lunch_combo twrp_eros-p1-eng
+add_lunch_combo twrp_eros-user
+add_lunch_combo twrp_eros-userdebug
+add_lunch_combo twrp_eros-eng
