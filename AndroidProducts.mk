@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_eros-p1.mk
+    $(LOCAL_DIR)/twrp_eros-p1.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_eros-p1-user \
-    omni_eros-p1-userdebug \
-    omni_eros-p1-eng
+    twrp_eros-p1-user \
+    twrp_eros-p1-userdebug \
+    twrp_eros-p1-eng
