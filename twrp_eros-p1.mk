@@ -15,7 +15,7 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 $(call inherit-product, device/google/eros-p1/device.mk)
 
 PRODUCT_DEVICE := eros-p1
-PRODUCT_NAME := twrp_eros-p1
+PRODUCT_NAME := twrp_eros
 PRODUCT_BRAND := google
 PRODUCT_MODEL := GameBox
 PRODUCT_MANUFACTURER := google
