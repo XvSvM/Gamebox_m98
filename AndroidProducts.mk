@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_eros-p1.mk
+    $(LOCAL_DIR)/twrp_eros.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_eros-p1-user \
-    twrp_eros-p1-userdebug \
-    twrp_eros-p1-eng
+    twrp_eros-user \
+    twrp_eros-userdebug \
+    twrp_eros-eng
